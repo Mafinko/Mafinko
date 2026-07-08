@@ -1,11 +1,11 @@
 ```swift
 public struct AboutMe {
-    let name = "Jay"
+    let name = "Mafin"
     var pronouns = ["he","him"]
     
-    let profession = "iOS Engineer @ Matter Neuroscience"
+    let profession = "FiveM Developer & Cybersecurity"
     
-    var preferredTechStack = ["swift", "swiftui", "cloudkit", "core data"]
-    var hasUsed = ["react", "javascript", "firebase"]
+var preferredTechStack = ["lua", "javascript", "python", "csharp"]
+var hasUsed = ["esx", "qbcore", "react", "nodejs"]
 }
 ```
