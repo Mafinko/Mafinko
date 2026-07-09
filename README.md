@@ -19,3 +19,120 @@ var hasUsed = ["esx", "qbcore", "react", "nodejs"]
 
 ---
 [![](https://komarev.com/ghpvc/?username=Mafinko&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hey%2C+I'm+Mafin.;Cybersecurity+Student.;FiveM+Developer.;Ethical+Hacker." />
+
+```text
+┌──────────────────────────────────────────────────────┐
+│ ACCESS GRANTED                                       │
+│ USER       : MAFIN                                   │
+│ ROLE       : ETHICAL HACKER / DEVELOPER              │
+│ STATUS     : ONLINE                                  │
+│ SECURITY   : HIGH                                    │
+└──────────────────────────────────────────────────────┘
+```
+
+## > whoami
+
+```bash
+$ whoami
+
+Name        : Mafin
+Role        : Cybersecurity Student
+Focus       : Ethical Hacking, Pentesting, FiveM Development
+Languages   : Lua, Python, JavaScript, C#
+OS          : Kali Linux / Windows
+Location    : Czech Republic
+```
+
+---
+
+## > skills
+
+```text
+[██████████] Ethical Hacking
+[█████████░] Penetration Testing
+[██████████] FiveM Development
+[████████░░] Web Security
+[████████░░] Python
+[█████████░] Lua
+[███████░░░] Reverse Engineering
+```
+
+---
+
+## > technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,lua,js,cs,html,css,nodejs,git,github,vscode,linux,bash,docker,mysql" />
+</p>
+
+---
+
+## > current objectives
+
+```text
+> Building secure FiveM resources
+> Learning advanced penetration testing
+> Malware analysis
+> Reverse engineering
+> Web application security
+> Open source security tools
+```
+
+---
+
+## > terminal
+
+```bash
+$ nmap target
+
+Scanning...
+██████████████████████████████ 100%
+
+No unauthorized access.
+Security assessment completed.
+```
+
+---
+
+## > github stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## > contribution graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## > visitor log
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=black&label=VISITORS">
+</p>
+
+---
+
+```text
+> Connecting...
+
+██████████████████████████████ 100%
+
+Session established.
+
+"There is no patch for human curiosity."
+```
