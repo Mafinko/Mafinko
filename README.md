@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A0A0A,50:7C3AED,100:8B5CF6&text=Mafinko&fontColor=FFFFFF&fontSize=72&animation=fadeIn&fontAlignY=38&desc=FiveM%20Developer%20%7C%20Lua%20Scripter%20%7C%20Cybersecurity%20Student&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Mafinko&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FiveM%20Developer%20%E2%80%A2%20Lua%20Scripter%20%E2%80%A2%20Cybersecurity%20Student&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=FiveM+Developer;ESX+%7C+QBCore+Resource+Creator;Lua+Scripter;0.00ms+Optimized+Scripts;Cybersecurity+Student;Building+Clean+Server+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Premium+FiveM+Resources;Lua+Developer;ESX+%7C+QBCore+Resource+Creator;Optimized+0.00ms+Scripts;Learning+Cybersecurity;Clean+Code+%E2%80%A2+Better+Performance"/>
 
 <br><br>
 
@@ -14,40 +14,28 @@
 
 ---
 
-## 🧠 About Me
+## 💻 whoami
 
-```lua
-local Mafinko = {
-    role = "FiveM Developer",
+```console
+> whoami
 
-    frameworks = {
-        "ESX",
-        "QBCore",
-        "ox_lib",
-        "ox_target",
-        "ox_inventory"
-    },
+Name        :: Mafinko
+Role        :: FiveM Developer
+Location    :: Czech Republic
 
-    languages = {
-        "Lua",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Python",
-        "SQL"
-    },
+Specialized :: Lua Development
+               ESX Framework
+               QBCore Framework
+               ox_lib
+               ox_target
+               ox_inventory
+               Modern NUI Systems
+               Server Optimization
 
-    focus = {
-        "Premium FiveM Resources",
-        "Clean UI Systems",
-        "Optimized Server Scripts",
-        "Cybersecurity Basics",
-        "Security Tools"
-    },
-
-    performance = "0.00ms",
-    status = "Always building"
-}
+Currently   :: Building premium FiveM resources
+Learning    :: Cybersecurity, Linux, Reverse Engineering
+Focus       :: Clean code, better performance, secure servers
+Status      :: Always building
 ```
 
 ---
@@ -56,32 +44,56 @@ local Mafinko = {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/FIVEM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
+<img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESX-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QBCORE-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OX_LIB-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OX_TARGET-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OX_INVENTORY-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QBCore-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Standalone-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ox_lib-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ox_target-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ox_inventory-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NUI-0A0A0A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TEBEX-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OneSync-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tebex-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Discord_Integration-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
 </p>
 
 ---
 
-## 💻 Languages & Tools
+## 💻 Languages
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=lua,js,ts,python,html,css,mysql,bash,md"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,figma,postman,linux,windows"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 
 </p>
 
@@ -91,13 +103,16 @@ local Mafinko = {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Hack%20The%20Box-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/TryHackMe-Learning-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ghidra-990000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux_Terminal-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
 </p>
 
@@ -106,21 +121,22 @@ local Mafinko = {
 ## 🚀 What I Build
 
 ```text
-✔ FiveM Resources
+✔ Premium FiveM Resources
 ✔ ESX Scripts
 ✔ QBCore Scripts
+✔ Standalone Scripts
 ✔ Custom Jobs
 ✔ Robbery Systems
 ✔ Garage Systems
 ✔ Drug Systems
 ✔ Admin Tools
-✔ NUI Interfaces
+✔ Security Tools
 ✔ Discord Integrations
 ✔ Tebex Ready Resources
+✔ Modern NUI Interfaces
 ✔ ox_lib Context Menus
 ✔ ox_target Interactions
 ✔ ox_inventory Integrations
-✔ Server Security Tools
 ✔ Optimized 0.00ms Resources
 ```
 
@@ -130,12 +146,12 @@ local Mafinko = {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CTF%20Player-Beginner%20%2F%20Learning-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-Terminal%20User-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recon-Nmap%20%7C%20OSINT-00457C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Blue%20Team-Log%20Analysis-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Red%20Team-Lab%20Only-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CTF_Player-Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Security-OWASP_Top_10-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Terminal_User-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recon-Nmap_%7C_OSINT-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blue_Team-Log_Analysis-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Red_Team-Lab_Only-DC2626?style=for-the-badge"/>
 
 </p>
 
@@ -190,7 +206,7 @@ local Mafinko = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mafinko&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=8&margin-h=8&rank=-?"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mafinko&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12"/>
 
 </div>
 
@@ -227,6 +243,19 @@ Ready to deploy.
 
 ---
 
+## 🎯 Goals
+
+```text
+□ Release more open-source FiveM resources
+□ Improve Lua optimization
+□ Build better NUI interfaces
+□ Learn reverse engineering
+□ Improve web security skills
+□ Create security tools for FiveM servers
+```
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -235,7 +264,7 @@ Ready to deploy.
 
 </div>
 
-> ⚠️ Snake animation needs GitHub Action. Without it, this image will not show.
+> Snake animation needs GitHub Action. Without it, this image will not show.
 
 ---
 
@@ -243,6 +272,6 @@ Ready to deploy.
 
 ## ⚡ Clean Code. Better Performance. Secure Servers.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8B5CF6,100:0A0A0A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24"/>
 
 </div>
