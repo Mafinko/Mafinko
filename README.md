@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A0A0A,50:7C3AED,100:8B5CF6&text=Mafinko&fontColor=FFFFFF&fontSize=70&animation=fadeIn&fontAlignY=38&desc=FiveM%20Developer%20%7C%20Lua%20Scripter%20%7C%20Cybersecurity%20Student&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A0A0A,50:7C3AED,100:8B5CF6&text=Mafinko&fontColor=FFFFFF&fontSize=72&animation=fadeIn&fontAlignY=38&desc=FiveM%20Developer%20%7C%20Lua%20Scripter%20%7C%20Cybersecurity%20Student&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=FiveM+Developer;ESX+%7C+QBCore+Scripts;Lua+Resource+Creator;0.00ms+Optimized+Resources;Cybersecurity+Student;Building+Premium+FiveM+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=FiveM+Developer;ESX+%7C+QBCore+Resource+Creator;Lua+Scripter;0.00ms+Optimized+Scripts;Cybersecurity+Student;Building+Clean+Server+Systems"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Mafinko&style=for-the-badge&label=PROFILE+VIEWS&color=7C3AED"/>
 <img src="https://img.shields.io/github/followers/Mafinko?style=for-the-badge&label=FOLLOWERS&color=8B5CF6"/>
@@ -39,19 +39,20 @@ local Mafinko = {
 
     focus = {
         "Premium FiveM Resources",
-        "Optimized Scripts",
-        "Clean UI",
-        "Server Security",
-        "Cybersecurity"
+        "Clean UI Systems",
+        "Optimized Server Scripts",
+        "Cybersecurity Basics",
+        "Security Tools"
     },
 
-    performance = "0.00ms"
+    performance = "0.00ms",
+    status = "Always building"
 }
 ```
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ FiveM Developer Stack
 
 <p align="center">
 
@@ -62,12 +63,41 @@ local Mafinko = {
 <img src="https://img.shields.io/badge/OX_LIB-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OX_TARGET-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OX_INVENTORY-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NUI-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TEBEX-14B8A6?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 💻 Languages & Tools
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛡️ Cybersecurity Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hack%20The%20Box-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/TryHackMe-Learning-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 
 </p>
 
@@ -85,12 +115,42 @@ local Mafinko = {
 ✔ Drug Systems
 ✔ Admin Tools
 ✔ NUI Interfaces
-✔ ox_lib Menus
+✔ Discord Integrations
+✔ Tebex Ready Resources
+✔ ox_lib Context Menus
 ✔ ox_target Interactions
 ✔ ox_inventory Integrations
 ✔ Server Security Tools
 ✔ Optimized 0.00ms Resources
 ```
+
+---
+
+## 🏆 Cyber Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CTF%20Player-Beginner%20%2F%20Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Terminal%20User-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recon-Nmap%20%7C%20OSINT-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blue%20Team-Log%20Analysis-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Red%20Team-Lab%20Only-DC2626?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📦 Featured Projects
+
+| Project | Type | Description |
+|--------|------|-------------|
+| 🔐 Backdoor Finder | Security Tool | Scanner for suspicious FiveM resource code |
+| 🚗 Garage System | FiveM Script | Modern garage system for ESX/QBCore |
+| 💼 Job System | FiveM Script | Optimized jobs using ox_lib and ox_target |
+| 🌿 Drug System | FiveM Script | Configurable drug system with clean logic |
+| 🎨 NUI Interface | UI Resource | Modern FiveM user interface |
+| 🛡️ Server Tools | Security | Tools focused on server protection |
 
 ---
 
@@ -130,7 +190,7 @@ local Mafinko = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mafinko&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mafinko&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=8&margin-h=8&rank=-?"/>
 
 </div>
 
@@ -148,25 +208,22 @@ $ connect --user Mafinko
 [+] ox_lib initialized
 [+] ox_target initialized
 [+] ox_inventory initialized
-[+] Cybersecurity mode enabled
+[+] Cybersecurity learning mode enabled
 
 Performance: 0.00ms
 Status: ONLINE
 
-Ready to build.
+$ build --resource premium_fivem_script
+
+[+] Checking config.lua
+[+] Loading client.lua
+[+] Loading server.lua
+[+] Registering NUI callbacks
+[+] Optimizing thread usage
+[+] Resource started successfully
+
+Ready to deploy.
 ```
-
----
-
-## 📦 Featured Projects
-
-| Project | Type | Description |
-|--------|------|-------------|
-| 🔐 Backdoor Finder | Security Tool | FiveM resource scanner for suspicious code |
-| 🚗 Garage System | FiveM Script | Modern garage system for ESX/QBCore |
-| 💼 Job System | FiveM Script | Optimized jobs with ox_lib and ox_target |
-| 🌿 Drug System | FiveM Script | Configurable drug system |
-| 🎨 NUI Interface | UI Resource | Clean and modern FiveM UI |
 
 ---
 
@@ -174,15 +231,18 @@ Ready to build.
 
 <div align="center">
 
-<!-- This works only after you add the GitHub Action for snake generation -->
 <img src="https://raw.githubusercontent.com/Mafinko/Mafinko/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
+> ⚠️ Snake animation needs GitHub Action. Without it, this image will not show.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,100:0A0A0A"/>
+## ⚡ Clean Code. Better Performance. Secure Servers.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8B5CF6,100:0A0A0A"/>
 
 </div>
