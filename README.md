@@ -1,145 +1,102 @@
-```swift
-public struct AboutMe {
-    let name = "Mafin"
-    var pronouns = ["he","him"]
-    
-    let profession = "FiveM Developer & Cybersecurity"
-    
-var preferredTechStack = ["lua", "javascript", "python", "csharp"]
-var hasUsed = ["esx", "qbcore", "react", "nodejs"]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=900&lines=FiveM+Developer;ESX+%2F+QBCore+Scripts;Lua+Resource+Creator;Optimized+0.00ms+Scripts;Cybersecurity+Learner" />
+</p>
+
+```text
+┌──────────────────────────────────────────────┐
+│  MAFIN SYSTEM ONLINE                         │
+│  ROLE      : FiveM Developer                 │
+│  STACK     : Lua / JS / HTML / CSS / SQL     │
+│  FOCUS     : ESX, QBCore, ox_lib, ox_target  │
+│  STATUS    : BUILDING RESOURCES              │
+└──────────────────────────────────────────────┘
+```
+
+## 🚀 About Me
+
+```lua
+local developer = {
+    name = "Mafin",
+    role = "FiveM Developer",
+    focus = {
+        "ESX Scripts",
+        "QBCore Scripts",
+        "ox_lib Menus",
+        "ox_target Interactions",
+        "ox_inventory Systems",
+        "Optimized Resources",
+        "Server Security"
+    },
+    status = "Always building something new"
 }
 ```
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mafinko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mafinko&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mafinko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Mafinko&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hey%2C+I'm+Mafin.;Cybersecurity+Student.;FiveM+Developer.;Ethical+Hacker." />
-
-```text
-┌──────────────────────────────────────────────────────┐
-│ ACCESS GRANTED                                       │
-│ USER       : MAFIN                                   │
-│ ROLE       : ETHICAL HACKER / DEVELOPER              │
-│ STATUS     : ONLINE                                  │
-│ SECURITY   : HIGH                                    │
-└──────────────────────────────────────────────────────┘
-```
-
-## > whoami
-
-```bash
-$ whoami
-
-Name        : Mafin
-Role        : Cybersecurity Student
-Focus       : Ethical Hacking, Pentesting, FiveM Development
-Languages   : Lua, Python, JavaScript, C#
-OS          : Kali Linux / Windows
-Location    : Czech Republic
-```
-
----
-
-## > skills
-
-```text
-[██████████] Ethical Hacking
-[█████████░] Penetration Testing
-[██████████] FiveM Development
-[████████░░] Web Security
-[████████░░] Python
-[█████████░] Lua
-[███████░░░] Reverse Engineering
-```
-
----
-
-## > technologies
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-
-</p>
-
----
-
-## > current objectives
-
-```text
-> Building secure FiveM resources
-> Learning advanced penetration testing
-> Malware analysis
-> Reverse engineering
-> Web application security
-> Open source security tools
-```
-
----
-
-## > terminal
-
-```bash
-$ nmap target
-
-Scanning...
-██████████████████████████████ 100%
-
-No unauthorized access.
-Security assessment completed.
-```
-
----
-
-## > github stats
+## ⚡ Tech Stack
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FIVEM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESX-111111?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QBCORE-0A0A0A?style=for-the-badge&logo=lua&logoColor=00FF88"/>
+  <img src="https://img.shields.io/badge/OX_LIB-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OX_TARGET-7C3AED?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OX_INVENTORY-6D28D9?style=for-the-badge&logo=box&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
-## > contribution graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## > visitor log
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=black&label=VISITORS">
-</p>
-
----
+## 🧠 What I Build
 
 ```text
-> Connecting...
+> FiveM jobs
+> Robbery systems
+> Garage systems
+> Drug systems
+> Admin tools
+> Security tools
+> Discord integrations
+> Tebex-ready resources
+> Fully configurable scripts
+> Clean UI resources
+> Optimized client/server code
+```
 
-██████████████████████████████ 100%
+## 🔥 Current Focus
 
-Session established.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1200&pause=300&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+premium+FiveM+resources;Creating+optimized+Lua+scripts;Designing+clean+server+systems;Learning+cybersecurity;Making+servers+more+secure" />
+</p>
 
-"There is no patch for human curiosity."
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+## 👁️ Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+</p>
+
+```text
+[+] Resource loaded
+[+] Client synced
+[+] Server secured
+[+] FiveM developer mode enabled
 ```
